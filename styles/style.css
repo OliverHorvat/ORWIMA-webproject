@@ -10,18 +10,22 @@
 
 .header a:link {
   color: rgb(255, 255, 255);
+  text-decoration: none;
 }
 
 .header a:visited {
   color: rgb(197, 186, 186);
+  text-decoration: none;
 }
 
 .header a:hover {
   color: rgb(253, 208, 208);
+  text-decoration: none;
 }
 
 .header a:active {
   color: rgb(254, 130, 130);
+  text-decoration: none;
 }
 
 .image{
